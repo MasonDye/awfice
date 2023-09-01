@@ -22,6 +22,10 @@ Copy and add to bookmarks or open in the URL bar:
 data:text/html,<body contenteditable style=line-height:1.5;font-size:20px>
 ```
 
+```html
+data:text/html;base64,PGh0bWwgY29udGVudGVkaXRhYmxlPmVkaXQgbWU8L2h0bWw+
+```
+
 [Try it!](https://htmlpreview.github.io/?https://github.com/zserge/awfice/blob/main/edit.html)
 
 ## Spreadsheet - 679 bytes!
